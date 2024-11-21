@@ -1,0 +1,1 @@
+O objetivo do projeto é para explorar o que eu aprendi na aula de Aplicação a Linguagem de Programação Orientada a Objetos da faculdade. Eu fiz um quiz do jogo dota 2 em que nela tem o objetivo de acertar o atributo primário do personagem.
